@@ -1,0 +1,6 @@
+[submodule "zserio-cmake-helper"]
+	path = zserio-cmake-helper
+	url = git@github.com:klebert-engineering/zserio-cmake-helper
+[submodule "zserio"]
+	path = zserio
+	url = git@github.com:ndsev/zserio
