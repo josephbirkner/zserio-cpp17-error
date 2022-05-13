@@ -1,6 +1,5 @@
-project(zseiro-test)
+project(zserio-test)
 
-# Assume zserio submodule is cloned under deps/zserio
 add_subdirectory(zserio/compiler/extensions/cpp/runtime/src)
 set(ZSERIO_REPO_ROOT "${CMAKE_CURRENT_LIST_DIR}/zserio")
 
